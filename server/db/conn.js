@@ -2,7 +2,7 @@ const mongoose=require('mongoose');
 
 //mongodb://localhost:27017/userdata
 
-mongoose.connect("mongodb+srv://tejasm123:Z4ZRssHqcA4B3yf2@cluster0.muvoouw.mongodb.net/?retryWrites=true&w=majority",
+mongoose.connect("mongodb+srv://tejasm123:tejasvm123@cluster0.sig1uuh.mongodb.net/PMC?retryWrites=true&w=majority",
 {useCreateIndex: true,
     useNewUrlParser: true,
     useUnifiedTopology: true,
